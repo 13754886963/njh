@@ -1,2 +1,3 @@
 # njh
-test  github
+测试的github上
+你好
